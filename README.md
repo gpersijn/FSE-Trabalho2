@@ -22,6 +22,9 @@ python3 src/main.py
 
 ## Log
 
-## Teste Dashboard
+<a href="https://ibb.co/6WrwxvW"><img src="https://i.ibb.co/1m7Q5sm/Screenshot-from-2023-01-23-03-37-24.png" alt="Screenshot-from-2023-01-23-03-37-24" border="0"></a>
 
-## Sinal de controle
+## Teste na Dashboard com Sinal de Controle
+
+<a href="https://ibb.co/hcd8xk9"><img src="https://i.ibb.co/dtpKsSM/Screenshot-from-2023-01-23-04-24-55.png" alt="Screenshot-from-2023-01-23-04-24-55" border="0"></a>
+
